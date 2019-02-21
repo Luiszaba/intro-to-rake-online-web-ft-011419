@@ -6,3 +6,8 @@ end
 #take :hello do
 #puts "hello from Rake!"
 #end
+
+desc 'outputs hola to the terminal'
+task :hello do 
+  puts "hola de Rake!"
+end
