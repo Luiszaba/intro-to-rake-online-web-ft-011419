@@ -4,3 +4,5 @@ task :hello do
 end
 
 #take :hello do
+#puts "hello from Rake!"
+#end
